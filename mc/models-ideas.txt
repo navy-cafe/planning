@@ -1,0 +1,18 @@
+Users can create and design their own models in-game. Various 'model modifiers' can be found through dungeon loot.
+
+Model modifiers control the display of a model.
+
+Model modifier: "types"
+- Armor stand (modify armour, arm positions, etc)
+- Player (set to specific name, difference in name-tag to make clear is fake)
+- Maybe custom MEG models?
+
+Model modifier: "Look-nearest"
+- Makes a model look at the nearest Player
+
+Model modifier: "Voicebox"
+- Makes a model trigger something on right-click
+
+Model modifier: "Energized"
+- Makes a model output a redstone signal to any in a 2x2 radius?
+
