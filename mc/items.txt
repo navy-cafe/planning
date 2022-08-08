@@ -1,0 +1,9 @@
+- Inspector's Goggles
+    - Shows all holograms as armor stands
+- Bonk Stick(s)
+    - Knockback 10
+- news.ycombinator.org book
+- mob statues
+- mob flags
+- wallpapers
+- NPC house blocks

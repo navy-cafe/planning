@@ -1,0 +1,8 @@
+The lobby will be a cafe floating in the empty void of space.
+
+Certain islands will be created for different purposes.
+* pvp island
+* island for each gamemode
+* npc/scenery islands
+
+Possibly have an "item catalogue" function that contains a list of items from all the navy cafe gamemodes. (i.e. bonk items, special enchanted items, etc, for testing/playing around purposes)
