@@ -16,3 +16,4 @@ Model modifier: "Voicebox"
 Model modifier: "Energized"
 - Makes a model output a redstone signal to any in a 2x2 radius?
 
+NAME: "Sculpts"
