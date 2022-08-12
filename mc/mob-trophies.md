@@ -66,4 +66,4 @@ Instead, should a single trophy be _upgradable_? i.e. each trophy you place auto
 
 - Players may create rentable mob spawners to farm out mob kills for trophies, cool!
 
-- One option would be to allow all trophies to be craftable, but mobs drop "trophy upgrade kits" that can be used to upgrade a trophy to it's next tier.
+- One option would be to allow all trophies to be craftable, but mobs drop "trophy upgrade kits" that can be used to upgrade a trophy to it's next tier.  Don't like this option: would introduce multiple item types for trophies, Trophies should just be Trophies - keep it simple.
