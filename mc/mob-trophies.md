@@ -62,3 +62,8 @@ Instead, should a single trophy be _upgradable_? i.e. each trophy you place auto
 
 - Trade implications are interesting, certain groups may offer high value to skeleton trophies, meaning that players may farm out their trophies for a large sum of money/resources.
 
+- Players can only get each tier of each trophy once. Should they be craftable, somehow? Or keep them as a scarce, limited resource.
+
+- Players may create rentable mob spawners to farm out mob kills for trophies, cool!
+
+- One option would be to allow all trophies to be craftable, but mobs drop "trophy upgrade kits" that can be used to upgrade a trophy to it's next tier.
